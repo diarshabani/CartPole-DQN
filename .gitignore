@@ -1,0 +1,18 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local editor and system files
+.idea/
+.vscode/
+.DS_Store
+.env
+.env.*
+
+# Generated training results
+outputs/
+
+# Course assignment instructions
+/Computer Science 311 - Assignment 3_ Developing a Reinforcement Learning Agent _ Study.com.pdf
